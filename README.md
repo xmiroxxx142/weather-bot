@@ -119,3 +119,4 @@ weather-bot/
 ## 📄 Лицензия
 
 MIT
+"# weather-bot" 
